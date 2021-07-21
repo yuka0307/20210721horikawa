@@ -1,0 +1,36 @@
+body {
+  color: #00277e;
+}
+
+nav {
+  padding: 15px 15px;
+}
+
+
+ul {
+  display: flex;
+  justify-content: flex-end;
+}
+
+li {
+  padding: 0 15px;
+  font-weight: bold;
+}
+
+img {
+  width: 700px;
+  position: relative;
+  top: 150px;
+  left: 700px;
+}
+
+p {
+  color: black;
+  font-size: 60px;
+}
+
+.blue {
+  width: 1050px;
+  height: 200px;
+  background-color: #00277e;
+}
